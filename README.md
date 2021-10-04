@@ -1,13 +1,17 @@
 1. 主机配置
 
 lenovo-y700-15ISK
+
 I7 6700HQ
+
 HD530核显（CPU自带）
+
 16G 2133 DDR4 三星内存
+
 2. BIOS设置
 
-
 安全启动模式 关闭
+
 3. Opencore
 
 Opencore:0.7.4(开发版21/10/2)
