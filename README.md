@@ -16,7 +16,7 @@ CPU  (英特尔)Intel(R) Core(TM) I7-6700HQ
 无线网卡 英特尔(R) 无线 Bluetooth(R)  
 
 ----
-Opencore:0.7.4(开发版21/10/2)
+OpenCore:0.7.4(开发版21/10/2)
 ----
 
 待解决：
