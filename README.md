@@ -1,12 +1,15 @@
-1. 主机配置
+Lenovo-Y700-15ISK
+1.电脑概览
 
-lenovo-y700-15ISK
+内存 2133 MHz 内存大小 8 GB 内存频率 2133 MHz *2
 
-I7 6700HQ
+显卡 Intel(R) HD Graphics 530 
 
-HD530核显（CPU自带）
+声卡 Realtek High Definition Audio 
 
-16G 2133 DDR4 三星内存
+网卡 Intel(R) Dual Band Wireless-AC 3165 
+
+网卡名称 Realtek PCIe GBE Family Controller 
 
 2. BIOS设置
 
