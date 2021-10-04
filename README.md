@@ -13,8 +13,7 @@ CPU  (英特尔)Intel(R) Core(TM) I7-6700HQ
 
 网卡  Intel(R) Dual Band Wireless-AC 3165
 
-
-名称  英特尔(R) 无线 Bluetooth(R)
+无线网卡 英特尔(R) 无线 Bluetooth(R)  
 
 ----
 Opencore:0.7.4(开发版21/10/2)
@@ -22,9 +21,9 @@ Opencore:0.7.4(开发版21/10/2)
 
 待解决：
 
-睡眠
+无法睡眠
 
-关机
+关机后主板不断地
 
 ----
 更新记录
