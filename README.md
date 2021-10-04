@@ -5,6 +5,7 @@
 
 ![screenshot](Image/macOS%20Monterey%2012b8.png )
 
+----
 电脑概览
 
 CPU  (英特尔)Intel(R) Core(TM) I7-6700HQ 
