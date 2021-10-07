@@ -10,9 +10,9 @@
 
 CPU  (英特尔)Intel(R) Core(TM) I7-6700HQ 
 
-内存  8.00 GB (2133 MHz)*2
+显卡  Intel(R) HD Graphics 530 
 
-显卡  Intel(R) HD Graphics 530 显卡厂商 英特尔
+驱动不上去的 GTX 960M
 
 声卡  Realtek High Definition Audio（RTL235）
 
