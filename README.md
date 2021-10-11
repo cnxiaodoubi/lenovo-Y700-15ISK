@@ -3,7 +3,7 @@
 
 `macOS Monterey 12.0 Beta版(21A5534d)`
 
-![screenshot](Image/macOS Monterey 12b8.png)
+![screenshot](Image/macOS.png)
 
 ----
 电脑概览
