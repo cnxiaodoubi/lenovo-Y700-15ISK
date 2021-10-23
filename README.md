@@ -1,7 +1,7 @@
  Lenovo-Y700-15ISK
 ----
 
-`macOS Monterey 12.0 Beta版(21A5534d)`
+`macOS Monterey 12.0.1 rc2`
 
 ![screenshot](/Image/macOS%20Monterey%2012.0.1.png)
 
